@@ -1,8 +1,8 @@
 The program is a fully connected feed foward neural network made using vectors.
-The user can change the layout of the neural net and the learning rate 
-There are already multiple trainning data in this file that can be tested
-You can test the neural net with your own training data as long as it is in a txt file
-The inputs and target must be seperated by a space in that order 
+The user can change the layout of the neural net and the learning rate.
+There are already multiple trainning data in this folder that can be tested.
+You can test the neural net with your own training data as long as it is in a txt file.
+The inputs and target must be seperated by a space in that order
 and the data must be seperated by a new line for each epoch
 as the program will check that the input and target size matches with the neural net
 
