@@ -1,4 +1,4 @@
-The program is a fully connected feed foward neural network.
+The program is a fully connected feed foward neural network made using vectors.
 The user can change the layout of the neural net and the learning rate 
 There are already multiple trainning data in this file that can be tested
 You can test the neural net with your own training data as long as it is in a txt file
